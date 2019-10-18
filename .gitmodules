@@ -1,0 +1,3 @@
+[submodule "BrainDaemon"]
+	path = BrainDaemon
+	url = https://github.com/piano-fan/BrainDaemon
